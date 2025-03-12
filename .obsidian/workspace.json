@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "지원분야 관련 연구, 기술 또는 경력 사항"
             }
+          },
+          {
+            "id": "488d0f408dbe2866",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +67,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -169,16 +182,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73fc5af287177b77",
+  "active": "488d0f408dbe2866",
   "lastOpenFiles": [
     "ETRI/지원동기.md",
     "ETRI/희망하는 연구과제 또는 직무.md",
