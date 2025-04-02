@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "지원분야 관련 연구, 기술 또는 경력 사항"
             }
-          },
-          {
-            "id": "488d0f408dbe2866",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "488d0f408dbe2866",
+  "active": "522045fe06152daa",
   "lastOpenFiles": [
     "ETRI/지원동기.md",
     "ETRI/희망하는 연구과제 또는 직무.md",
